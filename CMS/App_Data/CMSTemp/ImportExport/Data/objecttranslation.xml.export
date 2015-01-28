@@ -1,0 +1,14 @@
+﻿<objecttranslation version="8.1">
+  <NewDataSet>
+    <objecttranslation>
+      <ClassName>cms_webpartcategory</ClassName>
+      <ID>483</ID>
+      <CodeName>BaseSite</CodeName>
+    </objecttranslation>
+    <objecttranslation>
+      <ClassName>cms_webpartcategory</ClassName>
+      <ID>249</ID>
+      <CodeName>/</CodeName>
+    </objecttranslation>
+  </NewDataSet>
+</objecttranslation>

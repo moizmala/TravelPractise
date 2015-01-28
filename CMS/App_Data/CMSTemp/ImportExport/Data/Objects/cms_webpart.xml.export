@@ -1,0 +1,43 @@
+﻿<cms_webpart version="8.1">
+  <NewDataSet>
+    <cms_webpart>
+      <WebPartID>1572</WebPartID>
+      <WebPartName>ReadExcelToCustomTable</WebPartName>
+      <WebPartDisplayName>Read Excel To CustomTable</WebPartDisplayName>
+      <WebPartDescription></WebPartDescription>
+      <WebPartFileName>BaseSite81/ReadExcelToCustomTable.ascx</WebPartFileName>
+      <WebPartProperties>&lt;form&gt;&lt;/form&gt;</WebPartProperties>
+      <WebPartCategoryID>483</WebPartCategoryID>
+      <WebPartGUID>e8961494-0e0b-4d04-b8db-5852dca8eba0</WebPartGUID>
+      <WebPartLastModified>2014-11-13T13:04:30+05:30</WebPartLastModified>
+      <WebPartType>0</WebPartType>
+      <WebPartLoadGeneration>0</WebPartLoadGeneration>
+      <WebPartLastSelection>2014-11-13T13:04:30+05:30</WebPartLastSelection>
+      <WebPartDefaultValues>&lt;form&gt;&lt;/form&gt;</WebPartDefaultValues>
+      <WebPartDefaultConfiguration>&lt;page&gt;&lt;/page&gt;</WebPartDefaultConfiguration>
+    </cms_webpart>
+    <cms_webpartcategory>
+      <CategoryID>249</CategoryID>
+      <CategoryDisplayName>All web parts</CategoryDisplayName>
+      <CategoryName>/</CategoryName>
+      <CategoryGUID>d782b5c3-27f3-45e6-a5cc-86c1944e2c8d</CategoryGUID>
+      <CategoryLastModified>2014-02-27T17:54:42.1712665+05:30</CategoryLastModified>
+      <CategoryPath>/</CategoryPath>
+      <CategoryLevel>0</CategoryLevel>
+      <CategoryChildCount>50</CategoryChildCount>
+      <CategoryWebPartChildCount>0</CategoryWebPartChildCount>
+    </cms_webpartcategory>
+    <cms_webpartcategory>
+      <CategoryID>483</CategoryID>
+      <CategoryDisplayName>BaseSite</CategoryDisplayName>
+      <CategoryParentID>249</CategoryParentID>
+      <CategoryName>BaseSite</CategoryName>
+      <CategoryGUID>9937178c-c05a-47aa-b6a1-44b16372a793</CategoryGUID>
+      <CategoryLastModified>2014-09-30T03:16:26.728+05:30</CategoryLastModified>
+      <CategoryPath>/BaseSite</CategoryPath>
+      <CategoryLevel>1</CategoryLevel>
+      <CategoryChildCount>0</CategoryChildCount>
+      <CategoryWebPartChildCount>2</CategoryWebPartChildCount>
+    </cms_webpartcategory>
+  </NewDataSet>
+</cms_webpart>

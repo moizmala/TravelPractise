@@ -1,0 +1,16 @@
+﻿<cms_site version="8.1">
+  <NewDataSet>
+    <cms_site>
+      <SiteID>1</SiteID>
+      <SiteName>BaseSite</SiteName>
+      <SiteDisplayName>BaseSite</SiteDisplayName>
+      <SiteDescription>Sample base web site</SiteDescription>
+      <SiteStatus>RUNNING</SiteStatus>
+      <SiteDomainName>localhost</SiteDomainName>
+      <SiteGUID>5e51a066-cc36-4240-b3f8-7bebe215829a</SiteGUID>
+      <SiteLastModified>2014-11-17T17:58:51.6495708+05:30</SiteLastModified>
+      <SiteIsOffline>false</SiteIsOffline>
+      <SiteOfflineMessage></SiteOfflineMessage>
+    </cms_site>
+  </NewDataSet>
+</cms_site>
